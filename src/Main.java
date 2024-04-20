@@ -138,6 +138,7 @@ public class Main {
                     break;
                 default:
 
+                break;
             }
         } while (option != 5);
     }
